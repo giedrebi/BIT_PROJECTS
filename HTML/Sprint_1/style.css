@@ -5,9 +5,8 @@ body {
     background-size: cover;
 }
 header {
-    padding-top: 20px;
     padding-left: 150PX;
-    padding-top: 140px;
+    padding-top: 100px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
 }
