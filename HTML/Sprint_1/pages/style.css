@@ -2,3 +2,22 @@ body {
     background-color: whitesmoke;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+nav {
+    text-align: center;
+    justify-content: space-evenly;
+    display: flex;
+}
+section {
+    padding-top: 30px;
+}
+footer {
+    background-color: gainsboro;
+    text-align: left;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
