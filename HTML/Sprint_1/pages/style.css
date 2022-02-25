@@ -12,11 +12,47 @@ nav {
     justify-content: space-evenly;
     display: flex;
 }
+#tools {
+    background-color: rgb(255, 232, 119);
+    padding: 12px 26px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+}
+#html {
+    background-color: rgb(255, 232, 119);
+    padding: 12px 26px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+}
+#css {
+    background-color: rgb(255, 232, 119);
+    padding: 12px 26px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+}
+#contact {
+    background-color: rgb(255, 232, 119);
+    padding: 12px 26px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+}
+#arrow {
+    font-size: xx-large;
+    padding-left: 90px;
+}
 section {
     padding-top: 30px;
 }
 footer {
-    background-color: gainsboro;
+    background-color: rgb(255, 232, 119);
     text-align: left;
     padding-top: 15px;
     padding-bottom: 15px;

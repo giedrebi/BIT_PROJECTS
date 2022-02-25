@@ -12,7 +12,6 @@ header {
 }
 header h3 a:link, a:visited, a:hover, a:active {
     background-color: whitesmoke;
-    color: white;
     padding: 15px 32px;
     text-decoration: none;
     display: inline-block;
