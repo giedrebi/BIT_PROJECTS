@@ -51,9 +51,20 @@ nav {
 section {
     padding-top: 30px;
 }
+#back {
+    background-color: rgb(255, 232, 119);
+    padding: 12px 26px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 8px;
+}
 footer {
     background-color: rgb(255, 232, 119);
     text-align: left;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+footer p {
+    text-align: center;
 }
