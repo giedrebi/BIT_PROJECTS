@@ -12,6 +12,10 @@ nav {
     justify-content: space-evenly;
     display: flex;
 }
+#welcome {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 #tools {
     background-color: rgb(255, 232, 119);
     padding: 12px 26px;
