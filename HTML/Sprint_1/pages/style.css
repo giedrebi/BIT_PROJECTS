@@ -64,6 +64,9 @@ section {
 #contacts {
     text-align: center;
 }
+#photo {
+    text-align: center;
+}
 table {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
