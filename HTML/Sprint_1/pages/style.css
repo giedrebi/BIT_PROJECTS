@@ -64,6 +64,13 @@ section {
 #contacts {
     text-align: center;
 }
+table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
 footer {
     background-color: rgb(255, 232, 119);
     text-align: left;
