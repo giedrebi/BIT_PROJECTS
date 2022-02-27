@@ -71,6 +71,12 @@ table, th, td {
     border: 1px solid black;
     text-align: center;
 }
+fieldset {
+        display: block;
+        margin-left: 300px;
+        margin-right: 300px;
+        border-color: rgb(255, 232, 119) ;
+}
 footer {
     background-color: rgb(255, 232, 119);
     text-align: left;
