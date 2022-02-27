@@ -77,9 +77,10 @@ table, th, td {
 }
 fieldset {
         display: block;
-        margin-left: 300px;
-        margin-right: 300px;
+        justify-content: center;
         border-color: rgb(255, 232, 119) ;
+        width:370px;
+        margin: 0 auto;
 }
 footer {
     background-color: rgb(255, 232, 119);
