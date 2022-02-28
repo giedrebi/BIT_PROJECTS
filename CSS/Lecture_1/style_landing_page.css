@@ -1,11 +1,11 @@
 body {
-    background-image: url(images/karolina_grabowska.jpg);
+    background-image: url(images/cottonbro.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
 section {
-    font-family: Gill Sans;
+    font-family: Calisto MT;
     text-align: center;
 }
 h1 {
@@ -16,6 +16,6 @@ h2 {
 }
 button {
     font-size: x-large;
-    font-family: Gill Sans;
+    font-family: Calisto MT;
     background-color: burlywood;
 }

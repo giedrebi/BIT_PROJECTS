@@ -5,8 +5,56 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        .section {
+            text-align: center;
+        }
+        .testing {
+            font-size: xx-large;
+        }
+        #first_section {
+            background-color: yellow;
+        }
+        #second_section {
+            background-color: rosybrown;
+        }
+        #third_section {
+            background-color: aqua;
+        }
+        section > p {
+            color: red;
+        }
+        .page {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        .page#projects {
+            color: violet;
+        }
+        .page#landing {
+            color: aqua;
+        }
+        a#second_landing:hover {
+            color: blueviolet;
+        }
+    </style>
+
 </head>
 <body>
-    <h1>Main page</h1>
+    <section class="testing section" id="first_section">
+        <article>
+            <p>la</p>
+            <p>ba</p>
+        </article>
+        <p>lee</p>
+        <p>baa</p>
+    </section>
+    <section class="testing section" id="second_section">
+        <a href="../Landing_page.html" class="page" id="landing">Landing page</a><br>
+        <a href="../../../index.html" class="page" id="projects">all projects</a>
+    </section> <br/>
+    <section class="section" id="third_section">
+        <a href="../Landing_page.html" class="page" id="second_landing">second Landing page</a><br>
+        <a href="../../../index.html" class="page" id="second_projects">second all projects</a>
+    </section>
 </body>
 </html>
