@@ -62,10 +62,10 @@ section {
     font-size: 18px;
     border-radius: 8px;
 }
-#blog {
+.blog {
     text-align: center;
 }
-#contacts {
+.contacts {
     text-align: center;
 }
 table {
