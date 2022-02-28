@@ -2,7 +2,7 @@ body {
     background-color: rgb(255, 249, 240);
     font-family: 'Courier New', Courier, monospace;
 }
-nav p a {
+p {
     color: black;
 }
 h1 {
