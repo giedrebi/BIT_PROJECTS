@@ -1,0 +1,9 @@
+body {
+    background-image: url(images/karolina_grabowska.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section {
+    font-family: Goudy Old Style;
+}
