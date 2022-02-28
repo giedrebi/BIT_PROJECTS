@@ -5,5 +5,17 @@ body {
     background-size: cover;
 }
 section {
-    font-family: Perpetua;
+    font-family: Gill Sans;
+    text-align: center;
+}
+h1 {
+    font-size: xx-large;
+}
+h2 {
+    font-size: larger;
+}
+button {
+    font-size: x-large;
+    font-family: Gill Sans;
+    color: brown;
 }
