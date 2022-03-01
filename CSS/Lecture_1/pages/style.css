@@ -10,7 +10,7 @@ a.menu:link, a.menu:visited {
     text-decoration: none;
     color: #596e79;
     font-family: 'Montserrat', sans-serif;
-    background-color:#dfd8c8;
+    background-color:#f5f0e8;
     border-radius: 6px;
     border-style: solid;
     padding: 10px;
@@ -18,7 +18,7 @@ a.menu:link, a.menu:visited {
 a.menu:hover {
     font-size: 15px;
     text-decoration: none;
-    color: #dfd8c8;
+    color: #f5f0e8;
     font-family: 'Montserrat', sans-serif;
     background-color:#596e79;
     border-radius: 6px;
@@ -30,7 +30,7 @@ a.menu:active {
     text-decoration: none;
     color: #596e79;
     font-family: 'Montserrat', sans-serif;
-    background-color:#dfd8c8;
+    background-color:#f5f0e8;
     border-radius: 6px;
     border-style: solid;
     padding: 10px;
@@ -59,7 +59,7 @@ a.menu:active {
 }
 #section_about {
     background-color: #596e79;
-    color: #dfd8c8;
+    color: #f5f0e8;
 }
 #section_projects {
     color: #596e79;
