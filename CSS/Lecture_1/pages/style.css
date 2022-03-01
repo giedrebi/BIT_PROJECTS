@@ -7,42 +7,40 @@ body {
     text-align: center;
     background-color: white;
 }
-#menu {
-    background-color: #cabfab;
-    display: flex;
-    justify-content: space-evenly;
-}
-a#menu:link, a#:visited {
-    font-size: 20px;
+a.menu:link, a.menu:visited {
+    font-size: 15px;
     font-weight: bold;
     text-decoration: none;
     color: #596e79;
-    display: inline-block;
     font-family: 'Josefin Slab';
     background-color:#dfd8c8;
     border-radius: 6px;
     border-style: solid;
-    padding: 15px;
+    padding: 10px;
 }
-a:hover {
-    font-size: 20px;
+a.menu:hover {
+    font-size: 15px;
     text-decoration: none;
     color: #dfd8c8;
-    display: inline-block;
     font-family: 'Josefin Slab';
     background-color:#596e79;
     border-radius: 6px;
     border-style: solid;
-    padding: 15px;
+    padding: 10px;
 }
-a:active {
-    font-size: 20px;
+a.menu:active {
+    font-size: 15px;
     text-decoration: none;
     color: #596e79;
-    display: inline-block;
     font-family: 'Josefin Slab';
     background-color:#dfd8c8;
     border-radius: 6px;
     border-style: solid;
-    padding: 15px;
+    padding: 10px;
+}
+#nav_menu {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
