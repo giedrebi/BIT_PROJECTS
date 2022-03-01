@@ -1,0 +1,13 @@
+body {
+    background-color: #f5f0e8; 
+    font-family: 'Josefin Slab';
+}
+#logo {
+    text-align: center;
+    background-color: white;
+}
+#menu {
+    background-color: #cabfab;
+    display: inline-block;
+    text-align: center;
+}
