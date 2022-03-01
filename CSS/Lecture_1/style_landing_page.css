@@ -3,19 +3,61 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family:'Roboto', sans-serif;;
+    font-family: 'Josefin Slab';
     text-align: center;
+    margin-top: 100px;
+    color: #596e79;
+}
+div {
+    border: 5px;
+    border-color:  #dfd8c8;
+    border-style: solid;
+    border-radius: 6px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 h1 {
-    font-size: 4rem;
+    font-size: 80px;
 }
 h2 {
-    font-size: 1,5rem;
+    font-size: 30px;
+    padding-bottom: 60px;
 }
-button {
-    font-size: 2rem;
-    background-color: burlywood;
-    font-family: 'Roboto', sans-serif;
+a:link a:visited {
+    font-size: 35px;
     font-weight: bold;
+    text-decoration: none;
+    color: #596e79;
+    display: inline-block;
+    font-family: 'Josefin Slab';
+    background-color:#dfd8c8;
     border-radius: 6px;
+    border-style: solid;
+    padding: 15px;
+}
+a:hover {
+    font-size: 35px;
+    text-decoration: none;
+    color: #dfd8c8;
+    display: inline-block;
+    font-family: 'Josefin Slab';
+    background-color:#596e79;
+    border-radius: 6px;
+    border-style: solid;
+    padding: 15px;
+}
+a:active {
+    font-size: 35px;
+    text-decoration: none;
+    color: #596e79;
+    display: inline-block;
+    font-family: 'Josefin Slab';
+    background-color:#dfd8c8;
+    border-radius: 6px;
+    border-style: solid;
+    padding: 15px;
 }
