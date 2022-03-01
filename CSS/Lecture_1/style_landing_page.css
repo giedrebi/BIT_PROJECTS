@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    font-family: 'Josefin Slab';
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     margin-top: 60px;
     color: #596e79;
@@ -33,7 +33,7 @@ a:link, a:visited {
     text-decoration: none;
     color: #596e79;
     display: inline-block;
-    font-family: 'Josefin Slab';
+    font-family: 'Montserrat', sans-serif;
     background-color:#dfd8c8;
     border-radius: 6px;
     border-style: solid;
@@ -44,7 +44,7 @@ a:hover {
     text-decoration: none;
     color: #dfd8c8;
     display: inline-block;
-    font-family: 'Josefin Slab';
+    font-family: 'Montserrat', sans-serif;
     background-color:#596e79;
     border-radius: 6px;
     border-style: solid;
@@ -55,7 +55,7 @@ a:active {
     text-decoration: none;
     color: #596e79;
     display: inline-block;
-    font-family: 'Josefin Slab';
+    font-family: 'Montserrat', sans-serif;
     background-color:#dfd8c8;
     border-radius: 6px;
     border-style: solid;
