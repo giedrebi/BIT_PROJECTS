@@ -35,6 +35,21 @@ a.menu:active {
     border-style: solid;
     padding: 10px;
 }
+.sections {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.name {
+    font-size: xx-large;
+}
+.representation {
+    font-size: larger;
+}
+#section_about > p {
+    font-size: medium;
+}
 #nav_menu {
     display: flex;
     justify-content: space-evenly;
@@ -45,8 +60,10 @@ a.menu:active {
     text-align: center;
     background-color: white;
 }
-#about {
-    font-weight: bold;
+#section_about {
     background-color: #596e79;
     color: #dfd8c8;
+}
+#section_projects {
+    color: #596e79;
 }
