@@ -47,7 +47,7 @@ a.menu:active {
 #section_about > p {
     font-size: medium;
 }
-#nav_menu {
+#nav_menu , #footer_menu {
     display: flex;
     justify-content: space-evenly;
     margin-top: 20px;
