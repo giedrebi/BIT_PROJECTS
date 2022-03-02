@@ -57,10 +57,10 @@ a.menu:active {
     text-align: center;
     background-color: white;
 }
-#section_about {
+#section_about , #project1 , #project3 {
     background-color: #596e79;
     color: #f5f0e8;
 }
-#section_projects {
+#section_projects , #project2 {
     color: #596e79;
 }
