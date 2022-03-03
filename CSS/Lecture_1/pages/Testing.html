@@ -6,55 +6,109 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style>
-        .section {
+        body {
+            background-color: #f5f0e8; 
+            font-family: 'Montserrat', sans-serif;
+            font-weight: bold;
             text-align: center;
         }
-        .testing {
+        footer {
+            margin-top: 40px;
+            margin-bottom: 40px;
+        }
+        footer p {
+            padding-top: 20px;
+        }
+        a.menu:link, a.menu:visited {
+            font-size: 15px;
+            font-weight: bold;
+            text-decoration: none;
+            color: #596e79;
+            font-family: 'Montserrat', sans-serif;
+            background-color:#f5f0e8;
+            border-radius: 6px;
+            border-style: solid;
+            padding: 10px;
+            width: 80px;
+            transition: 1s;
+        }
+        a.menu:hover {
+            font-size: 20px;
+            text-decoration: none;
+            color: #f5f0e8;
+            font-family: 'Montserrat', sans-serif;
+            background-color:#596e79;
+            border-radius: 6px;
+            border-style: solid;
+            padding: 10px;
+            width: 130px;
+        }
+        a.menu:active {
+            font-size: 15px;
+            text-decoration: none;
+            color: #596e79;
+            font-family: 'Montserrat', sans-serif;
+            background-color:#f5f0e8;
+            border-radius: 6px;
+            border-style: solid;
+            padding: 10px;
+        }
+        .sections {
+            padding-top: 15px;
+            padding-bottom: 15px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+        .name {
             font-size: xx-large;
         }
-        #first_section {
-            background-color: yellow;
+        #nav_menu , #footer_menu {
+            display: flex;
+            justify-content: space-evenly;
+            margin-top: 20px;
+            margin-bottom: 20px;
         }
-        #second_section {
-            background-color: rosybrown;
+        #logo {
+            text-align: center;
+            background-color: white;
         }
-        #third_section {
-            background-color: aqua;
+        #animation1 {
+            width: 426px;
+            align-items: center;
+            border-radius: 20px;
+            transition: all 500ms cubic-bezier(0.250, 0.250, 0.750, 0.750); /* linear */
         }
-        section > p {
-            color: red;
-        }
-        .page {
-            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        }
-        .page#projects {
-            color: violet;
-        }
-        .page#landing {
-            color: aqua;
-        }
-        a#second_landing:hover {
-            color: blueviolet;
+        #animation1:hover {
+            width: 600px;
         }
     </style>
-
 </head>
 <body>
-    <section class="testing section" id="first_section">
-        <article>
-            <p>la</p>
-            <p>ba</p>
-        </article>
-        <p>lee</p>
-        <p>baa</p>
-    </section>
-    <section class="testing section" id="second_section">
-        <a href="../Landing_page.html" class="page" id="landing">Landing page</a><br>
-        <a href="../../../index.html" class="page" id="projects">all projects</a>
-    </section> <br/>
-    <section class="section" id="third_section">
-        <a href="../Landing_page.html" class="page" id="second_landing">second Landing page</a><br>
-        <a href="../../../index.html" class="page" id="second_projects">second all projects</a>
-    </section>
+    <div id="logo">
+        <a href="Main_page.html">
+            <img src="../images/logowhite.JPG" alt="Lerante design logo" width="250px">
+        </a>
+    </div>
+    <nav id="nav_menu">
+        <a class="menu" href="#section_about">ABOUT US</a>
+        <a class="menu" href="#section_projects">PROJECTS</a>
+        <a class="menu" href="#section_contact">CONTACT</a>
+    </nav>
+    <div>
+        <section class="sections" id="section_projects">
+            <h1 class="name">PROJECT 1</h1>
+            <img id="animation1" src="../images/project1/pexels-vecislavas-popa-1571454.jpg" alt="" >
+            <img id="animation2" src="../images/project1/pexels-vecislavas-popa-1571455.jpg" alt="" >
+            <img id="animation3" src="../images/project1/pexels-vecislavas-popa-1571456.jpg" alt="" >
+        </section>
+    </div>
+    <footer>
+        <div id="footer_menu">
+            <a class="menu" href="#section_about">ABOUT US</a>
+            <a class="menu" href="#section_projects">PROJECTS</a>
+            <a class="menu" href="#section_contact">CONTACT</a>
+        </div>
+        <p>&#169; 2022 Giedre Bielske</p>
+    </footer>
 </body>
 </html>
