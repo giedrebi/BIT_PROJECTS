@@ -78,9 +78,6 @@ a.menu:active {
 #represent_photo > img:hover {
     width: 1000px;
 }
-#project1_name {
-    
-}
 #project1 > img {
     width: 550px;
     border-radius: 70% 30% 20% 30%;
