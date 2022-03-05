@@ -117,6 +117,9 @@ a.menu:active {
     width: 700px;
     transform: rotate(360deg);
 }
+#project1 > p , #project2 > p, #project3 > p {
+    padding-bottom: 30px;
+}
 #logo {
     text-align: center;
     background-color: #f5f0e8;
