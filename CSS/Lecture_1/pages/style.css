@@ -4,12 +4,21 @@ body {
     font-weight: bold;
     text-align: center;
 }
+form {
+    padding: 20px 26px;
+    text-decoration: none;
+    display: inline-block;
+    width:600px;
+}
 footer {
-    margin-top: 40px;
-    margin-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    background-color: #596e79;
 }
 footer p {
     padding-top: 20px;
+    color: #f5f0e8;
 }
 a.menu:link, a.menu:visited {
     font-size: 15px;
@@ -54,7 +63,7 @@ a.menu:active {
 .name {
     font-size: xx-large;
 }
-#section_about > p {
+#about > p {
     font-size: medium;
 }
 #nav_menu , #footer_menu {
@@ -63,11 +72,11 @@ a.menu:active {
     margin-top: 20px;
     margin-bottom: 20px;
 }
-#section_about , #project1 , #project3 {
+#about , #project1 , #project3 {
     background-color: #596e79;
     color: #f5f0e8;
 }
-#section_projects , #project2 {
+#projects , #project2 {
     color: #596e79;
 }
 #represent_photo > img {
@@ -129,4 +138,7 @@ a.menu:active {
 50%  {background-color:#596e79; color: #f5f0e8;}
 75%  {background-color:#dfd8c8; color: #596e79;}
 100% {background-color:#f5f0e8; color: #52575d;}
+}
+#contacts {
+    color: #596e79;
 }
