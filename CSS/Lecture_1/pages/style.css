@@ -137,9 +137,9 @@ a.menu:active {
 }
 @keyframes logo {
 0%   {background-color:#f5f0e8; color: #52575d;}
-25%  {background-color:#dfd8c8; color: #596e79;}
+25%  {background-color:#dfd8c8; color: #15191b;}
 50%  {background-color:#596e79; color: #f5f0e8;}
-75%  {background-color:#dfd8c8; color: #596e79;}
+75%  {background-color:#dfd8c8; color: #15191b;}
 100% {background-color:#f5f0e8; color: #52575d;}
 }
 #contacts {
