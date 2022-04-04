@@ -8,15 +8,15 @@ Project was created for learning purposes. It's a promotional page for a real es
 ### About project
 
 * Website include 3 pages:
-  1. Home 
-  2. List of items 
-  3. Contact
+  - Home 
+  - List of items 
+  - Contact
 
 * Made with HTML and CSS
 
 * Have two branches:
-  1. **main**  (this is basic version of website)
-  2. **premium-branch** (this is moderate version with logo animation and video)
+  - **main**  (this is basic version of website)
+  - **premium-branch** (this is moderate version with logo animation and video)
 
 
 ### How to instal
