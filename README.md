@@ -12,7 +12,7 @@ Project was created for learning purposes. It's a promotional page for a real es
   - List of items 
   - Contact
 
-* Made with HTML and CSS
+* Made with HTML and SASS.
 
 * Have two branches:
   - **main**  (this is basic version of website)
