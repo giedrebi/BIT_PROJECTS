@@ -2,7 +2,8 @@
 
 Project was created for learning purposes. It's a promotional page for a real estate company.
 
-![Alt text](readme_images/mojorent.jpg "mojorent")
+![MOJO RENT website](readme_images/mojorent.jpg "mojorent")
+![MOJO RENT website](readme_images/mojorent2.jpg "mojorent")
 
 ## Real estate website
 
