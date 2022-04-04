@@ -8,15 +8,15 @@ Project was created for learning purposes. It's a promotional page for a real es
 ### About project
 
 * Website include 3 pages:
-  - Home 
-  - List of items 
-  - Contact
+  1. Home 
+  2. List of items 
+  3. Contact
 
 * Made with HTML and CSS
 
 * Have two branches:
-  - **main**  (this is basic version of website)
-  - **premium-branch** (this is moderate version with logo animation and video)
+  1. **main**  (this is basic version of website)
+  2. **premium-branch** (this is moderate version with logo animation and video)
 
 
 ### How to instal
@@ -43,10 +43,27 @@ In the same section press on `Edit in settings.json`. Then you need to paste cod
 
 <img src="readme_images/sass3.jpg" width="300">
 
-6. You need to have `Live Server` extension in VScode as well.
+5. You need to have `Live Server` extension in VScode as well.
 
-5. Open cloned project folder in VScode. 
+6. Open cloned project folder in VScode. 
 
 Then in below line you need to press on `Watch Sass`:
 
 <img src="readme_images/watchsass.JPG" width="100">
+
+7. To see website, press on `Go Live` in the same line as before:
+
+<img src="readme_images/golive.JPG" width="100">
+
+### Premium-branch
+
+To launch premium branch you need to clone repository with command:
+
+ `$ git clone --single-branch --branch premium-branch https://github.com/giedrebi/BIT_SPRINT_3.git`
+
+Then repeat 6 and 7 steps.
+
+### Author
+
+This project was created by Giedre Bielske - @giedrebi 
+
