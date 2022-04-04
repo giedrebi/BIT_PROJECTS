@@ -37,7 +37,7 @@ In VScode open settings and in search bar tab sass. Then scroll down and find se
 
 Then chose settings button and press `Copy Setting as JSON`:
 
-<img src="readme_images/sass2.jpg" width="300">
+<img src="readme_images/sass2.jpg" width="400">
 
 In the same section press on `Edit in settings.json`. Then you need to paste code which you copied before like this:
 
@@ -49,4 +49,4 @@ In the same section press on `Edit in settings.json`. Then you need to paste cod
 
 Then in below line you need to press on `Watch Sass`:
 
-<img src="readme_images/watchsass.jpg" width="100">
+<img src="readme_images/watchsass.JPG" width="100">
