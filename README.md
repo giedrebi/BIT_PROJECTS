@@ -20,8 +20,8 @@ Project was created for learning purposes. It's a promotional page for a real es
 
 
 ### How to instal
-###### Start with preparation
-1. First you need to clone repository.
+#### First you need to clone repository.
+1. 
 Copy link of repository here:
 
 <img src="readme_images/url.JPG" width="300">
