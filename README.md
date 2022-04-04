@@ -29,21 +29,21 @@ Project was created for learning purposes. It's a promotional page for a real es
 
 `$ git clone https://github.com/giedrebi/BIT_SPRINT_3.git`
 
-4. You need to have extension `Live Sass Compiler v5.3.0` in VScode.
+4. You need to have extension **Live Sass Compiler v5.3.0** in VScode.
 
-In VScode open settings and in search bar tab sass. Then scroll down and find section `Live Sass Compiler: Settings: Formats` 
+In VScode open settings and in search bar tab sass. Then scroll down and find section **Live Sass Compiler: Settings: Formats** : 
 
 <img src="readme_images/sass1.jpg" width="300">
 
-Then chose settings button and press `Copy Setting as JSON`:
+Then chose settings button and press **Copy Setting as JSON**:
 
 <img src="readme_images/sass2.jpg" width="400">
 
-In the same section press on `Edit in settings.json`. Then you need to paste code which you copied before like this:
+In the same section press on **Edit in settings.json**. Then you need to paste code which you copied before like this:
 
 <img src="readme_images/sass3.JPG" width="400">
 
-5. You need to have `Live Server` extension in VScode as well.
+5. As well, you need to have **Live Server** extension in VScode.
 
 6. Open cloned project folder in VScode. 
 
