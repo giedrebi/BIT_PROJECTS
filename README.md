@@ -5,17 +5,19 @@ Project was created for learning purposes. It's a promotional page for a real es
 ![MOJO RENT website](readme_images/mojorent.jpg "mojorent")
 ![MOJO RENT website](readme_images/mojorent2.jpg "mojorent")
 
-## Real estate website
+### About project
 
-1. About project
-2. How to instal
-
-1. ### About project
 * Website include 3 pages:
-  - Home page
-  - List of items page
-  - Contact page
-* Made with 
+  - Home 
+  - List of items 
+  - Contact
+
+* Made with HTML and CSS
+
+* Has two branches:
+  - **main**  (this is basic version of website)
+  - **premium-branch**
+
 
 2. ### How to instal
 ###### Start with preparation
