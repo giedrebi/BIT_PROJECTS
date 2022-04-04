@@ -41,7 +41,7 @@ Then chose settings button and press `Copy Setting as JSON`:
 
 In the same section press on `Edit in settings.json`. Then you need to paste code which you copied before like this:
 
-<img src="readme_images/sass3.JPG" width="300">
+<img src="readme_images/sass3.JPG" width="400">
 
 5. You need to have `Live Server` extension in VScode as well.
 
