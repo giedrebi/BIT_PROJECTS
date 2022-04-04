@@ -1,4 +1,4 @@
-# BIT_SPRINT_2
+# BIT_SPRINT_3
 
 Project was created for learning purposes. It's a promotional page for a real estate company.
 
