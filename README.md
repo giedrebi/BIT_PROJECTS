@@ -25,7 +25,7 @@ Project was created for learning purposes. It's a promotional page for a real es
 <img src="readme_images/url.JPG" width="300">
 
 2. Go to the folder where you want clone repository, then open GIT BASH there. 
-3. Type `git clone`, then paste the URL you copied earlier and press Enter to create your local clone.:
+3. Type `git clone`, then paste the URL you copied earlier and press Enter to create your local clone:
 
 `$ git clone https://github.com/giedrebi/BIT_SPRINT_3.git`
 
@@ -65,6 +65,6 @@ Then repeat 6 and 7 steps.
 
 ### Author
 
-This project was created by [Giedre Bielske](https://giedrebi.github.io/)
+This project was created by me [Giedre Bielske](https://giedrebi.github.io/)
 
 As well, you can find me in [LinkedIn](https://www.linkedin.com/in/giedr%C4%97-bielsk%C4%97-1a8996107/)
