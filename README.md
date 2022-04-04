@@ -14,18 +14,22 @@ Project was created for learning purposes. It's a promotional page for a real es
 
 * Made with HTML and CSS
 
-* Has two branches:
+* Have two branches:
   - **main**  (this is basic version of website)
-  - **premium-branch**
+  - **premium-branch** (this is moderate version with logo animation and video)
 
 
-2. ### How to instal
+### How to instal
 ###### Start with preparation
-* First you need to have Visual Studio Code. If you don't have it you can download [here](https://code.visualstudio.com/)
+1. First you need to clone repository.
+Copy link of repository here:
+![Copy link of repository](readme_images/url.jpg "clone")
+Go to the folder where you want clone repository, then open GIT BASH there. 
+Then use command 
+
+*you need to have Visual Studio Code. If you don't have it you can download [here](https://code.visualstudio.com/)
 * You will need to have few extensions in VSCode:
- - HTML Snippets
  - 
- -
  - Live Sass Compiler v5.3.0 (be aware wich version of extension you download, because in VScode are two almost same Lice Sass Compiler)
  * Open settings and in search bar tab sass. Then scroll down and find section Live Sass Compiler: Settings: Formats 
 
