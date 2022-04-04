@@ -65,6 +65,6 @@ Then repeat 6 and 7 steps.
 
 ### Author
 
-This project was created by [Giedre Bielske](https://github.com/giedrebi/giedrebi.github.io)
+This project was created by [Giedre Bielske](https://giedrebi.github.io/)
 
-As well, you can find me in LinkedIn [Giedre Bielske](https://www.linkedin.com/in/giedr%C4%97-bielsk%C4%97-1a8996107/)
+As well, you can find me in [LinkedIn](https://www.linkedin.com/in/giedr%C4%97-bielsk%C4%97-1a8996107/)
