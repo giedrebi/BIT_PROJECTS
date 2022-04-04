@@ -24,7 +24,7 @@ Project was created for learning purposes. It's a promotional page for a real es
 1. First you need to clone repository.
 Copy link of repository here:
 
-![Copy link of repository](readme_images/url.jpg "clone")
+![Copy link of repository](readme_images/url.JPG "clone")
 
 Go to the folder where you want clone repository, then open GIT BASH there. 
 Then use command 
